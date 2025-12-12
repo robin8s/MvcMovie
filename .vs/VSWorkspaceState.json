@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MvcMovie",
+    "\\MvcMovie\\Migrations",
+    "\\MvcMovie\\Models",
+    "\\MvcMovie\\Views",
+    "\\MvcMovie\\wwwroot",
+    "\\MvcMovie\\wwwroot\\js",
+    "\\MvcMovie\\wwwroot\\lib"
   ],
-  "SelectedNode": "\\MvcMovie.slnx",
+  "SelectedNode": "\\MvcMovie\\wwwroot\\css",
   "PreviewInSolutionExplorer": false
 }
